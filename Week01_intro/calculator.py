@@ -1,0 +1,6 @@
+num1_jcs = float(input("Enter first number: "))
+num2_jcs = float(input("Enter second number: "))
+print("Addition:", num1_jcs + num2_jcs)
+print("Subtraction:", num1_jcs - num2_jcs)
+print("Multiplication:", num1_jcs * num2_jcs)
+print("Division:", num1_jcs / num2_jcs)
